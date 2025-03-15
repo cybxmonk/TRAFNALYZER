@@ -32,7 +32,7 @@ A powerful network traffic analyzer built with Python, inspired by Wireshark.
 
 1. Clone the repository:
    ```
-   git clone https://github.com/cybxmonk/trafnalyzer.git
+   git clone https://github.com/yourusername/trafnalyzer.git
    cd trafnalyzer
    ```
 
