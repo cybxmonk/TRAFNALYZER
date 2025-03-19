@@ -3,6 +3,11 @@
 A powerful network traffic analyzer built with Python, inspired by Wireshark.
 
 ![Trafnalyzer](https://github.com/yourusername/trafnalyzer/raw/main/screenshots/trafnalyzer_main.png)
+## Screenshots
+![image](https://github.com/user-attachments/assets/32ea2711-8b52-4131-b520-98034b7c4a39)
+![image](https://github.com/user-attachments/assets/94a488d9-4d92-48a8-88e7-76182f369a84)
+![image](https://github.com/user-attachments/assets/88a44c06-5e53-48b9-8fc9-fc834ceb17b2)
+
 
 ## Features
 
